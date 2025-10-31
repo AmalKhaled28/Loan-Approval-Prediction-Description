@@ -8,7 +8,6 @@
 ## Dataset
 - **Source**: [Loan Approval Classification Dataset][https://www.kaggle.com/datasets/laotseu/credit-risk-dataset](https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data) 
 - **Size**: 45,000 loan applications  
-- **File**: `credit_risk_dataset.csv` (included in repo)  
 - **Target**: `loan_status` → `1` = Approved, `0` = Rejected  
 
 ---
